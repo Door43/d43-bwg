@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bwg:home|Door43 (bwg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bwg|d43-bwg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bwg/archive/master.zip|d43-bwg.zip]]
+
+**Recent Changes**
+{{changes>ns = bwg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bwg|Ethnologue data]]
+
